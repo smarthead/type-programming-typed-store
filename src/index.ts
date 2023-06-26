@@ -5,7 +5,7 @@ type Settings = {
   features: {
     copilot: boolean,
     gpt: boolean
-  }
+  },
   editor: {
     font: {
       family: string,
